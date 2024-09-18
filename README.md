@@ -1,1 +1,1 @@
-**Simulation of free Particle using qubits**
+#Simulation of free Particle using qubits
